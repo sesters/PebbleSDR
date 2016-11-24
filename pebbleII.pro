@@ -17,7 +17,7 @@ SUBDIRS =   pebblelib/pebblelib.pro \
             plugins/RttyDigitalModem \
             plugins/WWVDigitalModem \
             plugins/FileSDRDevice \
-            plugins/rtl2832sdrdevice \
+            ##### plugins/rtl2832sdrdevice \
             plugins/SoftrockSDRDevice \
             plugins/ExampleSDRDevice \
             plugins/FunCubeSDRDevice \
@@ -25,7 +25,7 @@ SUBDIRS =   pebblelib/pebblelib.pro \
             plugins/ElektorDevice \
             plugins/RFSpaceDevice \
             plugins/Ghpsdr3Device \
-            plugins/SDRPlayDevice \
+            #### plugins/SDRPlayDevice \
             plugins/HackRFDevice \
             plugins/MorseGenDevice \
             application/pebbleqt.pro \
